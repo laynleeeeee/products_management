@@ -11,6 +11,11 @@
                         Dashboard
                     </a>
                 </li>
+                <li role="presentation">
+                    <a href="{{ url('/admin/category') }}">
+                        Categories
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
